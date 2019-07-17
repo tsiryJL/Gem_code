@@ -1,2 +1,2 @@
 # Gem_code
-test du code gem  avec robocup
+codage avec un test robocup en utilisant gem
